@@ -10,3 +10,12 @@ A positive cheerful realist wants to become a developer. No matter how long it t
 •	HTML
 •	CSS
 •	JS (Maybe in the future...)
+## Code Example
+function sum(a, b) { return a + b; }
+## Experience
+Everything is ahead
+## Education
+•	University: Polotsk State University, Mechanical Engineer
+## English
+A1
+
