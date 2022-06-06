@@ -1,1 +1,1 @@
-# rsschool-cv
+https://Vertik333.github.io/rsschool-cv/cv
