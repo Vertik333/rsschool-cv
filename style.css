@@ -1,3 +1,99 @@
-.body { 
-    font-size: 30px;
+body {
+    max-width: 1024px;
+    min-width: 600px;
+    margin: 0 auto;
+    margin-top: 100px; 
+    background-color:#000000
 }
+
+header {
+    border: solid rgba(51, 27, 27, 0.288);
+    border-width: 4px 4px 2px 4px;
+    height: 200px;
+    background-color:rgb(253, 234, 63);
+}
+
+h1 {
+display: inline-block; 
+position: relative;
+left: 390px;
+bottom: 200px;
+font-size: 40px;
+}
+
+.header {
+    display: inline-block;
+    position: relative;
+    bottom: 150px;
+    font-size: 28px;
+    left: 100px;
+}
+
+.photo {
+    display: inline-block;
+}
+
+
+
+.myphoto {
+    height: 200px;
+    
+}
+
+
+nav{
+    position: relative; 
+    bottom: 150px;
+    left: 300px;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+nav ul li {
+    display: inline-block;
+      margin-left: 10px;
+      text-transform: uppercase;
+      font-size: 13px ;
+}
+
+a {
+    color: rgba(26, 9, 9, 0.849);
+    text-decoration: none;
+  }
+
+.nav_header {  
+   display: inline;
+    }
+
+
+
+
+
+
+
+
+
+main { 
+    border: solid rgba(51, 27, 27, 0.288);
+    background-color:rgb(253, 234, 63);
+    height: 1000px;
+    border-width: 2px 4px 2px 4px;
+}
+
+footer {
+    border: solid rgba(51, 27, 27, 0.288);
+    background-color:rgb(253, 234, 63);
+    height: 200px;
+    border-width: 2px 4px 4px 4px;
+}
+
+
+
+
+
+
