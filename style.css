@@ -1,3 +1,171 @@
-.body { 
-    font-size: 30px;
+body {
+    max-width: 1024px;
+    min-width: 600px;
+    margin: 0 auto;
+    margin-top: 100px;
+    background-image: linear-gradient(to right, #eea2a2 0%, #bbc1bf 19%, #57c6e1 42%, #b49fda 79%, #7ac5d8 100%);
+}
+
+header {
+    border: solid rgba(241, 244, 245, 0.753);
+    border-width: 4px 4px 0px 4px;
+    height: 200px;
+    background-image: linear-gradient(to right, #eea2a2 0%, #bbc1bf 19%, #57c6e1 42%, #b49fda 79%, #7ac5d8 100%);
+}
+
+h1 {
+    display: inline-block;
+    position: relative;
+    left: 390px;
+    bottom: 200px;
+    font-size: 40px;
+}
+
+.header {
+    display: inline-block;
+    position: relative;
+    bottom: 150px;
+    font-size: 28px;
+    left: 100px;
+}
+
+.photo {
+    display: inline-block;
+}
+
+
+
+.myphoto {
+    height: 200px;
+
+}
+
+
+nav {
+    position: relative;
+    bottom: 150px;
+    left: 300px;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+nav ul li {
+    display: inline-block;
+    margin-left: 10px;
+    text-transform: uppercase;
+    font-size: 13px;
+}
+
+a {
+    color: rgba(26, 9, 9, 0.849);
+    text-decoration: none;
+}
+
+.nav_header {
+    display: inline;
+}
+
+
+main {
+    border: solid rgba(241, 244, 245, 0.753);
+    background-image: linear-gradient(to right, #eea2a2 0%, #bbc1bf 19%, #57c6e1 42%, #b49fda 79%, #7ac5d8 100%);
+    height: 750px;
+    border-width: 2px 4px 2px 4px;
+    font-size: 22px;
+}
+
+.main_about {
+    display: inline-block;
+    margin-left: 100px;
+
+}
+
+.main_h2 {
+    width: 200px;
+    line-height: 10px;
+}
+
+.main_contacts {
+    display: inline-block;
+    position: relative;
+    margin-left: 200px;
+}
+
+.main_skills {
+    display: inline-block;
+    margin-left: 100px;
+}
+
+.main_example {
+    display: inline-block;
+    position: relative;
+    margin-left: 310px;
+    bottom: 50px;
+}
+
+.main_projects {
+    display: inline-block;
+    margin-left: 100px;
+
+}
+
+.main_education {
+    display: inline-block;
+    position: relative;
+    margin-left: 586px;
+    bottom: 140px;
+}
+
+footer {
+    border: solid rgba(241, 244, 245, 0.753);
+    background-image: linear-gradient(to right, #eea2a2 0%, #bbc1bf 19%, #57c6e1 42%, #b49fda 79%, #7ac5d8 100%);
+    height: 100px;
+    border-width: 0px 4px 4px 4px;
+}
+
+.logo {
+    width: 100px;
+    height: 100px;
+}
+ 
+.logo_rs {
+    width: 80px;
+    height: 100px;
+    margin-left: 300px;
+}
+
+.link {
+    display: inline-block;
+    position: relative;
+    left: 400px;
+    bottom:50px;
+    width: 100px;
+    height: 50px;
+}
+
+.link_rs {
+    display: block;
+    width: 100px;
+}
+
+.logo_github {
+    display: block;
+    width: 50px;
+    height: 50px;
+    position: relative;
+    left: 520px;
+    bottom:120px;
+}
+
+.year {
+    width: 60px;
+    height: 60px;
+    position: relative;
+    left: 590px;
+    bottom: 220px;
 }
